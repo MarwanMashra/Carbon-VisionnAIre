@@ -1,5 +1,6 @@
 # GreatAI Team
 
+See Hackathon Website [Here](https://www.hi-paris.fr/2022/03/15/hickathon-2022-awards/).
 
 ## Team and project overview
 
